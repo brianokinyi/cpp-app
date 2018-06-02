@@ -1,9 +1,12 @@
 #include <iostream>
+#include <stdlib.h>
+
 using namespace std;
 
 class Employee
 {
     public:
+
         
     private:
         string fname;
